@@ -214,7 +214,8 @@
 		{
 			"id": "02b0d3ae-0b8f-4c5e-889c-59e6b766d590",
 			"key": "baseUrl",
-			"value": "/"
+			"value": "/",
+			"type": "any"
 		}
 	]
 }
